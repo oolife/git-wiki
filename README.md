@@ -1,4 +1,4 @@
-# Welcome to git-wiki demo
+# Welcome to My Blog
 
 This is a [demo](wiki/Demo.md) of git-wiki theme for jekyll.
 
